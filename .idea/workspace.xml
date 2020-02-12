@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa1d0400-ed0b-40fc-a982-b8cbff5ea443" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHR9jf1BPX6Re0PaVp2jaXnCdL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter7" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AutoTest\Chapter7" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/AutoTest/Chapter6/src/main/resources/testng.xml">
+    <configuration name="D:/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodDemo.logDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.extent.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tester.extent.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tester.extent.demo.TestMethodDemo" />
+      <option name="METHOD_NAME" value="logDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodDemo.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.extent.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tester.extent.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tester.extent.demo.TestMethodDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodDemo.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.extent.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tester.extent.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tester.extent.demo.TestMethodDemo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMethodDemo.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tester.extent.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tester.extent.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.tester.extent.demo.TestMethodDemo" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/AutoTest/Chapter6/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.TestMethodDemo.logDemo" />
+        <item itemvalue="TestNG.TestMethodDemo.test3" />
+        <item itemvalue="TestNG.TestMethodDemo.test2" />
+        <item itemvalue="TestNG.TestMethodDemo.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa1d0400-ed0b-40fc-a982-b8cbff5ea443" name="Default Changelist" comment="" />
+      <created>1580700883560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580700883560</updated>
+      <workItem from="1580700887791" duration="2344000" />
+      <workItem from="1580786026315" duration="6615000" />
+      <workItem from="1580875664981" duration="15957000" />
+      <workItem from="1581316945494" duration="2665000" />
+      <workItem from="1581320576502" duration="1745000" />
+      <workItem from="1581325972392" duration="9260000" />
+      <workItem from="1581408460169" duration="3362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/xml/Parser.class</url>
+          <line>107</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/xml/Parser.class</url>
+          <line>129</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/xml/SuiteXmlParser.class</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../win10/Java/jdk1.8.0_144/src.zip!/javax/xml/parsers/SAXParser.java</url>
+          <line>380</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
